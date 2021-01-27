@@ -1,1 +1,1 @@
-# matplotlib-challenge
+this directory contains analysis of some pharmaceutical data using the following libraries:pandas,matplotlib,scipy, and numpy
